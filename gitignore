@@ -1,3 +1,4 @@
 # all files and directories that we do not want to track
+# creation date was 17 July 2015
 * .zip
 data/
